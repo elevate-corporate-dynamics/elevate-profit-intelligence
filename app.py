@@ -22,6 +22,7 @@ h1, h2, h3 {color: #15263d;}
 """, unsafe_allow_html=True)
 
 st.title("ELEVATE")
+st.write("ECD dashboard is loading.")
 st.subheader("PROFIT INTELLIGENCE")
 st.caption("BUSINESS PERFORMANCE • FINANCIAL CLARITY • ACTION")
 
